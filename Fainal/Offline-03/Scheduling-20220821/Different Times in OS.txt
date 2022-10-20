@@ -1,0 +1,61 @@
+Arrival time
+Waiting time
+Response time
+Burst time
+Completion time
+Turn Around Time
+ 
+
+1. Arrival Time-
+ 
+Arrival time is the point of time at which a process enters the ready queue.
+ 
+
+2. Waiting Time-
+ 
+Waiting time is the amount of time spent by a process waiting in the ready queue for getting the CPU.
+ 
+Waiting time = Turn Around time – Burst time
+ 
+
+3. Response Time- 
+
+Response time is the amount of time after which a process gets the CPU for the first time after entering the ready queue. 
+
+Response Time = Time at which process first gets the CPU – Arrival time
+
+ 
+
+4. Burst Time-
+ 
+Burst time is the amount of time required by a process for executing on CPU.
+It is also called as execution time or running time.
+Burst time of a process can not be known in advance before executing the process.
+It can be known only after the process has executed.
+ 
+
+5. Completion Time-
+ 
+Completion time is the point of time at which a process completes its execution on the CPU and takes exit from the system.
+It is also called as exit time.
+ 
+
+
+6. Turn Around Time-
+ 
+Turn Around time is the total amount of time spent by a process in the system.
+When present in the system, a process is either waiting in the ready queue for getting the CPU or it is executing on the CPU.
+ 
+
+Turn Around time = Burst time + Waiting time
+OR
+Turn Around time = Completion time – Arrival time
+ 
+
+
+Important Note-
+
+While discussing the above definitions,
+
+We have considered that the process does not require an I/O operation.
+When process is present in the system, it will be either waiting for the CPU in the ready state or it will be executing on the CPU.

@@ -1,0 +1,18 @@
+Q0. Downloaded
+Q1. cd /tmp
+Q2. mkdir CSI310_115
+Q3. cp file1.txt file2.txt file3.txt CSI310_115
+Q4. cat > file4.txt
+Q5. cat file1.txt file2.txt  >> file4.txt
+Q6. cat file3.txt file4.txt | sort > file_115.txt
+Q7. wc-w file_115.txt
+    wc-l file_115.txt
+Q8. head -12 file_115.txt | tail-8
+Q9. sudo useradd user_011181115
+Q10.  chmod u-rw file_115.txt
+Q11.  sudu su user_011181115
+Q12.  chmod u+w file_115.txt
+	cat "iam good" > file_115.txt
+Q13.  sudo su emon
+Q14.  cd /tmp
+	rw-r CSI310_115

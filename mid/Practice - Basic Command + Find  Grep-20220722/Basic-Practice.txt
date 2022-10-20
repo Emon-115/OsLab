@@ -1,0 +1,16 @@
+Consider two task files provided you on elms. Perform following operations using those
+files where required:
+1. create a file (myfile) which is inside the folder (myfolder1) that is inside another folder
+(myfolder2) in C drive.
+2. combine taskfile1 and taskfile2 contexts in myfile and then show myfile content.
+3. count the total number of lines, words, characters in taskfile1 and taskfile2.
+4. count the total number of lines, words, characters in taskfile1 and taskfile2, and print
+the info in myoutput.txt
+5. sort the contexts of taskfile1 and taskfile2 in reverse alphabetic order
+6. sort the contexts of taskfile1 and taskfile2, and then copy the 3-10 lines to myfile, then
+show the content of myfile.
+7. print your name in command prompt, and copy that name and today's date in
+myoutput2.txt
+8. print your name in command prompt but copy only today's date in myoutput3.txt
+9. delete output.txt
+10. delete myfolder1
